@@ -251,8 +251,8 @@ margin: 12px 0 0;
 		.map{ height:100vw}
 		.container, .button {width:97%; margin:1.5%; font-size:4.2vw;}
 		.linkcamera, .linkmap, .linkinfo, .linkquestion {height:40vw;width:99%;}
-		.footer {font-size: 2vw; height:10vw}
-		.return {margin-bottom:12vw}
+		.footer {font-size: 3vw; height:12vw}
+		.return {margin-bottom:14vw}
 		.tinput {padding: 5vw 0;}
 		
 
@@ -298,8 +298,8 @@ margin: 12px 0 0;
 		.map{ height:100vw}
 		.container, .button {width:97%; margin:1.5%; font-size:4.2vw;}
 		.linkcamera, .linkmap, .linkinfo, .linkquestion {height:40vw;width:99%;}
-		.footer {font-size: 3vw; height:10vw}
-		.return {margin-bottom:12vw}
+		.footer {font-size: 3vw; height:12vw}
+		.return {margin-bottom:14vw}
 		.tinput {padding: 5vw 0;}
 		
 
