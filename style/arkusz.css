@@ -169,7 +169,7 @@ margin: 12px 0 0;
   font-family: Arial;
   border: none;}
 
-	@media (max-width:720px) {
+	@media (max-device-width:720px) {
 		.slideshow-container {max-width: 98%; position: static;margin: 1% auto;}
 		.linkpatch {width:49%;} 
 		.logo {width:35%;padding:0;}
@@ -189,7 +189,7 @@ margin: 12px 0 0;
 		li {padding:5px 0}
 	}
 
-	@media (max-width:480px) {
+	@media (max-device-width:480px) {
 		.linkpatch {width:98%;height:45vw} 
 		.logo {width:30vw;padding:0;float:left}
 		.title {width:60vw;padding:2vw 0 ; margin:0;text-align:center;font-size: 4vw;} 
