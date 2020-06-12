@@ -240,7 +240,7 @@ margin: 12px 0 0;
 		li{padding:2vw 0}
 		h3{font-size: 5vw; padding: 1vw auto; }
 		h2{font-size: 5vw; padding: 1.5vw auto;}
-		.pagesubtitle, .text {font-size: 4vw; padding: 1.5vw auto; }
+		.pagesubtitle, .text, .maptext {font-size: 4vw; padding: 1.5vw auto; }
 		.prev, .next{font-size:9vw}
 		.dot { height: 6.5vw; width: 6.5vw;}
 		.writingwhite { height:200vw; width: 99%;}
@@ -250,6 +250,7 @@ margin: 12px 0 0;
 		.linkcamera, .linkmap, .linkinfo, .linkquestion {height:40vw;width:99%;}
 		.footer {font-size: 2vw; height:10vw}
 		.return {margin-bottom:12vw}
+		.tinput {padding: 5vw 0;}
 		
 
 	}
@@ -286,7 +287,7 @@ margin: 12px 0 0;
 		li{padding:2vw 0}
 		h3{font-size: 5vw; padding: 1vw auto; }
 		h2{font-size: 5vw; padding: 1.5vw auto;}
-		.pagesubtitle, .text {font-size: 4vw; padding: 1.5vw auto; }
+		.pagesubtitle, .text, .maptext {font-size: 4vw; padding: 1.5vw auto; }
 		.prev, .next{font-size:9vw}
 		.dot { height: 6.5vw; width: 6.5vw;}
 		.writingwhite { height:200vw; width: 99%;}
@@ -294,8 +295,9 @@ margin: 12px 0 0;
 		.map{ height:100vw}
 		.container, .button {width:97%; margin:1.5%; font-size:4.2vw;}
 		.linkcamera, .linkmap, .linkinfo, .linkquestion {height:40vw;width:99%;}
-		.footer {font-size: 2vw; height:10vw}
+		.footer {font-size: 3vw; height:10vw}
 		.return {margin-bottom:12vw}
+		.tinput {padding: 5vw 0;}
 		
 
 	}
