@@ -65,10 +65,10 @@
 		.linkmap {background-image:url(../pix/mapa.png);}
 		.linkinfo {background-image:url(../pix/info.png);}
 		
-		.aside a, .writingwhite a, .return a, .writingred a, .linkinfo a, .linkquestion a, .linkcamera a, .linkmap a {text-decoration:none;font-weight:bold;}
-		.return a, .writingred a, .linkcamera a, .linkmap a {color:#F5EFF4; }		
+		.aside a, .writingwhite a, .return a, .writingred a, .linkinfo a, .linkquestion a, .linkcamera a, .linkmap a, .footer a {text-decoration:none;font-weight:bold;}
+		.return a, .writingred a, .linkcamera a, .linkmap a, .footer a {color:#F5EFF4; }		
 		.aside a, .writingwhite a, .linkinfo a, .linkquestion a{color:#571A39; }
-		.aside a:hover, .writingwhite a:hover, .return a:hover, .writingred a:hover, .linkquestion a:hover, .linkinfo a:hover, .linkcamera a:hover, .linkmap a:hover{color: #822651;transition:color 0.3s ease;}
+		.aside a:hover, .writingwhite a:hover, .return a:hover, .writingred a:hover, .linkquestion a:hover, .linkinfo a:hover, .linkcamera a:hover, .linkmap a:hover, .footer a:hover{color: #822651;transition:color 0.3s ease;}
 		
 		.return {background-color: #41142D; background-position:center; background-repeat:no-repeat; color:#E7D5DE; float: left; width: 99%;  height: auto; padding: 20px 0;  text-align:center; margin:0.5% 0.5% 70px;}		
 
@@ -229,7 +229,7 @@ margin: 12px 0 0;
 		.map{ height:100vw}
 		.container, .button {width:97%; margin:1.5%; font-size:4.2vw;}
 		.linkcamera, .linkmap, .linkinfo, .linkquestion {height:50vw;width:99%;}
-		.footer {font-size: 3vw; height:6.5vw}
+		.footer {font-size: 2vw; height:10vw}
 		
 
 	}
