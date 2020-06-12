@@ -70,7 +70,7 @@
 		.aside a, .writingwhite a, .linkinfo a, .linkquestion a{color:#571A39; }
 		.aside a:hover, .writingwhite a:hover, .return a:hover, .writingred a:hover, .linkquestion a:hover, .linkinfo a:hover, .linkcamera a:hover, .linkmap a:hover{color: #822651;transition:color 0.3s ease;}
 		
-		.return {background-color: #41142D; background-position:center; background-repeat:no-repeat; color:#E7D5DE; float: left; width: 99%;  height: auto; padding: 20px 0;  text-align:center; margin:0.5% 0.5% 1%;}		
+		.return {background-color: #41142D; background-position:center; background-repeat:no-repeat; color:#E7D5DE; float: left; width: 99%;  height: auto; padding: 20px 0;  text-align:center; margin:0.5% 0.5% 70px;}		
 
 		img{border-width:0pt; border-style:none; margin:0 }
 		.longpic{width:100%; height:auto}
